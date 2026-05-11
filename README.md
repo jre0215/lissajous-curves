@@ -1,16 +1,10 @@
 # Lissajous Curves
 
-Colorful demonstration of Lissajous Curves
+A colorful demonstration of Lissajous Curves
 
 ## Usage
 
-``` bash
-# Install dependencies
+```bash
 npm install
-
-# Build
-npm run build
-
-# Build and watch for changes
-npm run build:watch
+npm run dev
 ```
